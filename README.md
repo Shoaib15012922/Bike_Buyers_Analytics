@@ -13,3 +13,7 @@ STEPS -
 3)Data Analysis and Visualisation
 
 4)Drawing Insights
+
+
+Tools and Technology Used - Excel
+
